@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Network Booster</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="txt_speark">Speaker Boost</string>
+	<string name="txt_network">NetworkBoost</string>
+	<string name="txt_network_btn">START Boost Network</string>
+	<string name="msg_already_add_vol">Add Vol.%s</string>
+	<string name="status_network_3g_boosting">Start Boosting mobile data ...</string>
+	<string name="status_network_3g_boosted">Boosted 3G OK</string>
+	<string name="status_network_wifi_boosting">Start Boosting Wi-Fi ...</string>
+	<string name="status_network_wifi_boosted">Boosted Wi-Fi OK</string>
+	<string name="status_network_fly_boosting">Start Boosting AirplaneMode ...</string>
+	<string name="status_network_fly_boosted">Boosted AirplaneMode OK</string>
+	<string name="status_network_all_ok">Network Boost all OK!!</string>
+	<string name="equalizer_on">Equalizer ON !!</string>
+	<string name="more_app">More Apps</string>
+	<string name="rate">Rate me</string>
+	<string name="download_network">Donwload Real-Time Network Monitor</string>
+</resources>
