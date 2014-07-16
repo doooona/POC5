@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">Super Booster</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="txt_speark">スピーカー</string>
+	<string name="txt_network">ネットワークスピードブースター</string>
+	<string name="txt_network_btn">インターネットブースターを使用した</string>
+	<string name="msg_already_add_vol">強化された音.%s</string>
+	<string name="status_network_3g_boosting">モバイルネットワークの再編成...</string>
+	<string name="status_network_3g_boosted">リフレッシュモバイルネットワーク OK</string>
+	<string name="status_network_wifi_boosting">爽やか  Wi-Fi...</string>
+	<string name="status_network_wifi_boosted">爽やか  Wi-Fi OK</string>
+	<string name="status_network_fly_boosting">Start Boosting AirplaneMode ...</string>
+	<string name="status_network_fly_boosted">Boosted AirplaneMode OK</string>
+	<string name="status_network_all_ok">完了するすべてのネットワークの通信速度をリフレッシュ</string>
+	<string name="equalizer_on">スピーカーで開く!</string>
+	<string name="more_app">もっと便利なアプリ</string>
+	<string name="rate">格付けをアシスト</string>
+	<string name="download_network">ダウンロード：ネットワーク速度アプリケーション</string>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">網路助推器</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="txt_speark">揚聲器</string>
+	<string name="txt_network">網絡速度助推器</string>
+	<string name="txt_network_btn">開始使用網路助推器</string>
+	<string name="msg_already_add_vol">加強了 音效.%s</string>
+	<string name="status_network_3g_boosting">正在重整 行動網路...</string>
+	<string name="status_network_3g_boosted">重整 行動網路 OK</string>
+	<string name="status_network_wifi_boosting">正在重整  Wi-Fi...</string>
+	<string name="status_network_wifi_boosted">重整  Wi-Fi OK</string>
+	<string name="status_network_fly_boosting">Start Boosting AirplaneMode ...</string>
+	<string name="status_network_fly_boosted">Boosted AirplaneMode OK</string>
+	<string name="status_network_all_ok">所有網路通訊速度重整  完成</string>
+	<string name="equalizer_on">揚聲器 開啟中!</string>
+	<string name="more_app">更多好用App</string>
+	<string name="rate">協助評分</string>
+	<string name="download_network">下載及時網路速度程式</string>
+</resources>

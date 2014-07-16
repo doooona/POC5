@@ -1,0 +1,142 @@
+android.support.v4.app.BackStackState
+android.support.v4.app.BackStackState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.Fragment$SavedState
+android.support.v4.app.Fragment$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentManagerState
+android.support.v4.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentState
+android.support.v4.app.FragmentState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentTabHost: void setOnTabChangedListener(android.widget.TabHost$OnTabChangeListener)
+android.support.v4.app.FragmentTabHost$SavedState
+android.support.v4.app.FragmentTabHost$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status[] values()
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status valueOf(java.lang.String)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColor(int)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColorResource(int)
+android.support.v4.view.PagerTabStrip: int getTabIndicatorColor()
+android.support.v4.view.PagerTabStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.PagerTabStrip: void setBackgroundColor(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundResource(int)
+android.support.v4.view.PagerTabStrip: void setDrawFullUnderline(boolean)
+android.support.v4.view.PagerTabStrip: boolean getDrawFullUnderline()
+android.support.v4.view.PagerTabStrip: int getMinHeight()
+android.support.v4.view.PagerTitleStrip: void setSingleLineAllCaps(android.widget.TextView)
+android.support.v4.view.PagerTitleStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTitleStrip: int getTextSpacing()
+android.support.v4.view.PagerTitleStrip: void setNonPrimaryAlpha(float)
+android.support.v4.view.PagerTitleStrip: void setTextColor(int)
+android.support.v4.view.PagerTitleStrip: void setGravity(int)
+android.support.v4.view.PagerTitleStrip: int getMinHeight()
+android.support.v4.view.ViewPager: void setScrollState(int)
+android.support.v4.view.ViewPager: void setAdapter(android.support.v4.view.PagerAdapter)
+android.support.v4.view.ViewPager: android.support.v4.view.PagerAdapter getAdapter()
+android.support.v4.view.ViewPager: void setOnAdapterChangeListener(android.support.v4.view.ViewPager$OnAdapterChangeListener)
+android.support.v4.view.ViewPager: void setCurrentItem(int)
+android.support.v4.view.ViewPager: int getCurrentItem()
+android.support.v4.view.ViewPager: void setOnPageChangeListener(android.support.v4.view.ViewPager$OnPageChangeListener)
+android.support.v4.view.ViewPager: void setChildrenDrawingOrderEnabledCompat(boolean)
+android.support.v4.view.ViewPager: int getOffscreenPageLimit()
+android.support.v4.view.ViewPager: void setOffscreenPageLimit(int)
+android.support.v4.view.ViewPager: void setPageMargin(int)
+android.support.v4.view.ViewPager: int getPageMargin()
+android.support.v4.view.ViewPager: void setPageMarginDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.ViewPager: void setPageMarginDrawable(int)
+android.support.v4.view.ViewPager: void setScrollingCacheEnabled(boolean)
+android.support.v4.view.ViewPager$SavedState
+android.support.v4.view.ViewPager$SavedState: android.os.Parcelable$Creator CREATOR
+com.easy.apps.superbooster.MainActivity
+com.easy.apps.superbooster.MainActivity: MainActivity()
+com.easy.apps.superbooster.R$anim: int round_loading
+com.easy.apps.superbooster.R$attr: int backgroundColor
+com.easy.apps.superbooster.R$attr: int keywords
+com.easy.apps.superbooster.R$attr: int primaryTextColor
+com.easy.apps.superbooster.R$attr: int refreshInterval
+com.easy.apps.superbooster.R$attr: int secondaryTextColor
+com.easy.apps.superbooster.R$color: int black
+com.easy.apps.superbooster.R$color: int blue
+com.easy.apps.superbooster.R$color: int deepskyblue3
+com.easy.apps.superbooster.R$color: int green
+com.easy.apps.superbooster.R$color: int grey
+com.easy.apps.superbooster.R$color: int lite_blue
+com.easy.apps.superbooster.R$color: int orange
+com.easy.apps.superbooster.R$color: int red
+com.easy.apps.superbooster.R$color: int white
+com.easy.apps.superbooster.R$dimen: int activity_horizontal_margin
+com.easy.apps.superbooster.R$dimen: int activity_vertical_margin
+com.easy.apps.superbooster.R$drawable: int ic_launcher
+com.easy.apps.superbooster.R$drawable: int loading_progress_run
+com.easy.apps.superbooster.R$drawable: int refresh_normal
+com.easy.apps.superbooster.R$id: int action_settings
+com.easy.apps.superbooster.R$id: int adView
+com.easy.apps.superbooster.R$id: int imageView1
+com.easy.apps.superbooster.R$id: int ll1
+com.easy.apps.superbooster.R$id: int seekBar1
+com.easy.apps.superbooster.R$id: int textView1
+com.easy.apps.superbooster.R$id: int textView2
+com.easy.apps.superbooster.R$id: int textView3
+com.easy.apps.superbooster.R$layout: int activity_main
+com.easy.apps.superbooster.R$menu: int main
+com.easy.apps.superbooster.R$string: int action_settings
+com.easy.apps.superbooster.R$string: int app_name
+com.easy.apps.superbooster.R$string: int download_network
+com.easy.apps.superbooster.R$string: int equalizer_on
+com.easy.apps.superbooster.R$string: int hello_world
+com.easy.apps.superbooster.R$string: int more_app
+com.easy.apps.superbooster.R$string: int msg_already_add_vol
+com.easy.apps.superbooster.R$string: int rate
+com.easy.apps.superbooster.R$string: int status_network_3g_boosted
+com.easy.apps.superbooster.R$string: int status_network_3g_boosting
+com.easy.apps.superbooster.R$string: int status_network_all_ok
+com.easy.apps.superbooster.R$string: int status_network_fly_boosted
+com.easy.apps.superbooster.R$string: int status_network_fly_boosting
+com.easy.apps.superbooster.R$string: int status_network_wifi_boosted
+com.easy.apps.superbooster.R$string: int status_network_wifi_boosting
+com.easy.apps.superbooster.R$string: int txt_network
+com.easy.apps.superbooster.R$string: int txt_network_btn
+com.easy.apps.superbooster.R$string: int txt_speark
+com.easy.apps.superbooster.R$style: int AppBaseTheme
+com.easy.apps.superbooster.R$style: int AppTheme
+com.easy.apps.superbooster.R$styleable: int[] com_admob_android_ads_AdView
+com.easy.apps.superbooster.R$styleable: int com_admob_android_ads_AdView_backgroundColor
+com.easy.apps.superbooster.R$styleable: int com_admob_android_ads_AdView_keywords
+com.easy.apps.superbooster.R$styleable: int com_admob_android_ads_AdView_primaryTextColor
+com.easy.apps.superbooster.R$styleable: int com_admob_android_ads_AdView_refreshInterval
+com.easy.apps.superbooster.R$styleable: int com_admob_android_ads_AdView_secondaryTextColor
+com.easy.apps.superbooster.SpearkService
+com.easy.apps.superbooster.SpearkService: SpearkService()
+com.google.ads.AdActivity
+com.google.ads.AdActivity: AdActivity()
+com.google.ads.AdActivity: void onClick(android.view.View)
+com.google.ads.AdRequest$ErrorCode: com.google.ads.AdRequest$ErrorCode[] values()
+com.google.ads.AdRequest$ErrorCode: com.google.ads.AdRequest$ErrorCode valueOf(java.lang.String)
+com.google.ads.AdRequest$Gender: com.google.ads.AdRequest$Gender[] values()
+com.google.ads.AdRequest$Gender: com.google.ads.AdRequest$Gender valueOf(java.lang.String)
+com.google.ads.AdView
+com.google.ads.AdView: AdView(android.app.Activity,com.google.ads.AdSize,java.lang.String)
+com.google.ads.AdView: AdView(android.app.Activity,com.google.ads.AdSize[],java.lang.String)
+com.google.ads.AdView: AdView(android.content.Context,android.util.AttributeSet)
+com.google.ads.AdView: AdView(android.content.Context,android.util.AttributeSet,int)
+com.google.ads.AdView: void setAdListener(com.google.ads.AdListener)
+com.google.ads.AdView: void setAppEventListener(com.google.ads.AppEventListener)
+com.google.ads.AdView: void setSupportedAdSizes(com.google.ads.AdSize[])
+com.google.ads.ai$b: com.google.ads.ai$b[] values()
+com.google.ads.ai$b: com.google.ads.ai$b valueOf(java.lang.String)
+com.google.ads.doubleclick.DfpAdView: void setAppEventListener(com.google.ads.AppEventListener)
+com.google.ads.doubleclick.DfpAdView: void setSupportedAdSizes(com.google.ads.AdSize[])
+com.google.ads.g$a: com.google.ads.g$a[] values()
+com.google.ads.g$a: com.google.ads.g$a valueOf(java.lang.String)
+com.google.ads.internal.AdVideoView: void setMediaControllerEnabled(boolean)
+com.google.ads.internal.AdVideoView: void setSrc(java.lang.String)
+com.google.ads.internal.AdWebView: void setAdActivity(com.google.ads.AdActivity)
+com.google.ads.internal.AdWebView: void setAdSize(com.google.ads.AdSize)
+com.google.ads.internal.AdWebView: void setCustomClose(boolean)
+com.google.ads.internal.AdWebView: void setIsExpandedMraid(boolean)
+com.google.ads.internal.c$d: com.google.ads.internal.c$d[] values()
+com.google.ads.internal.c$d: com.google.ads.internal.c$d valueOf(java.lang.String)
+com.google.ads.searchads.SearchAdRequest$BorderType: com.google.ads.searchads.SearchAdRequest$BorderType[] values()
+com.google.ads.searchads.SearchAdRequest$BorderType: com.google.ads.searchads.SearchAdRequest$BorderType valueOf(java.lang.String)
+com.google.ads.util.AdUtil$a: com.google.ads.util.AdUtil$a[] values()
+com.google.ads.util.AdUtil$a: com.google.ads.util.AdUtil$a valueOf(java.lang.String)
+com.google.ads.util.b$a: com.google.ads.util.b$a[] values()
+com.google.ads.util.b$a: com.google.ads.util.b$a valueOf(java.lang.String)

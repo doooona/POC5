@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Super Booster</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="txt_speark">Speaker Boost</string>
+	<string name="txt_network">NetworkBoost</string>
+	<string name="txt_network_btn">START pour booster Réseau</string>
+	<string name="msg_already_add_vol">Add Vol.%s</string>
+	<string name="status_network_3g_boosting">Commencez Stimuler données mobiles ...</string>
+	<string name="status_network_3g_boosted">Données mobiles Boosté OK</string>
+	<string name="status_network_wifi_boosting">Commencez Stimuler Wi-Fi ...</string>
+	<string name="status_network_wifi_boosted">Boosté Wi-Fi OK</string>
+	<string name="status_network_fly_boosting">Commencez Stimuler Airplane Mode ...</string>
+	<string name="status_network_fly_boosted">Boosté AirplaneMode OK</string>
+	<string name="status_network_all_ok">Réseau Boostez tout est OK!!</string>
+	<string name="equalizer_on">Equalizer ON !!</string>
+	<string name="more_app">more apps</string>
+	<string name="rate">taux moi</string>
+	<string name="download_network">Donwload Moniteur réseau en temps réel</string>
+</resources>
